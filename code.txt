@@ -1,8 +1,10 @@
 底层service项目
 trisomic-crawler 三体-网络爬虫
 
-CrawlerFactory.java
+CrawlerFactory.java 创建CrawlSessionManager
 CrawlSessionManager.java
+
+CrawlerException.java 异常（继承自运行时异常）
 
 CachingCookieAbstractSessionManager.java
 SoufangSessionManager.java
