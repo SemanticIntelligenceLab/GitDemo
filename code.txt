@@ -1,0 +1,13 @@
+底层service项目
+trisomic-crawler 三体-网络爬虫
+
+CrawlerFactory.java
+CrawlSessionManager.java
+
+CachingCookieAbstractSessionManager.java
+SoufangSessionManager.java
+
+JsonUtils.java
+
+Picture
+SouFangPropertyInfo.java
