@@ -13,3 +13,5 @@ JsonUtils.java
 
 Picture
 SouFangPropertyInfo.java
+
+trisomic-dao 持久层（通过mybatis操作数据库）
